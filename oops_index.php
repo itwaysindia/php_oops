@@ -5,6 +5,8 @@
 3. destructor
 4. access modifiers (Public, private, protected)
 5. Inheritance
+5.1 Encapsulation
+5.2 Polymorphism
 6. constants
 7. abstract classes
 8. interfaces
